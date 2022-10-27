@@ -1,0 +1,73 @@
+public class Symbollib {
+
+    public Symbollib(){
+
+    }
+    static char symA(){return 'A';}
+    static char syma(){return 'a';}
+    static char symB(){return 'B';}
+    static char symb(){return 'b';}
+    static char symC(){return 'C';}
+    static char symc(){return 'c';}
+    static char symD(){return 'D';}
+    static char symd(){return 'd';}
+    static char symE(){return 'E';}
+    static char syme(){return 'e';}
+    static char symF(){return 'F';}
+    static char symf(){return 'f';}
+    static char symG(){return 'G';}
+    static char symg(){return 'g';}
+    static char symH(){return 'H';}
+    static char symh(){return 'h';}
+    static char symI(){return 'I';}
+    static char symi(){return 'i';}
+    static char symJ(){return 'J';}
+    static char symj(){return 'j';}
+    static char symK(){return 'K';}
+    static char symk(){return 'k';}
+    static char symL(){return 'L';}
+    static char syml(){return 'l';}
+    static char symM(){return 'M';}
+    static char symm(){return 'm';}
+    static char symN(){return 'N';}
+    static char symn(){return 'n';}
+    static char symO(){return 'O';}
+    static char symo(){return 'o';}
+    static char symP(){return 'P';}
+    static char symp(){return 'p';}
+    static char symQ(){return 'Q';}
+    static char symq(){return 'q';}
+    static char symR(){return 'R';}
+    static char symr(){return 'r';}
+    static char symS(){return 'S';}
+    static char syms(){return 's';}
+    static char symT(){return 'T';}
+    static char symt(){return 't';}
+    static char symU(){return 'U';}
+    static char symu(){return 'u';}
+    static char symV(){return 'V';}
+    static char symv(){return 'v';}
+    static char symW(){return 'W';}
+    static char symw(){return 'w';}
+    static char symX(){return 'X';}
+    static char symx(){return 'x';}
+    static char symY(){return 'Y';}
+    static char symy(){return 'y';}
+    static char symZ(){return 'Z';}
+    static char symz(){return 'z';}
+    static char sym1(){return '1';}
+    static char sym2(){return '2';}
+    static char sym3(){return '3';}
+    static char sym4(){return '4';}
+    static char sym5(){return '5';}
+    static char sym6(){return '6';}
+    static char sym7(){return '7';}
+    static char sym8(){return '8';}
+    static char sym9(){return '9';}
+    static char sym0(){return '0';}
+    static char symplus(){return '+';}
+    static char symgange(){return '*';}
+    static char symslash(){return '/';}
+    static char symquestionmark(){return '?';}
+    static char symexlamation(){return '!';}
+}
